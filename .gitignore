@@ -1,0 +1,13 @@
+data/
+results/
+*pt
+*egg-info/**
+**__pycache__/**
+*.pyc*
+benchmark_results/
+logs/
+mteb_results/
+platonic_results/
+local_paths.env
+plots/table_vlm_layers.py
+scripts/table_vlm_layers.sh
